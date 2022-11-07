@@ -1,0 +1,5 @@
+FIGMA:
+https://www.figma.com/file/0RqYKpszdHt9HBCvO0zXM4/Calend%C3%A1rio-de-Jogos-(Community)?node-id=122%3A130
+
+GITHUB ROCKETSEAT:
+https://github.com/rocketseat-education/nlw-copa-ignite
