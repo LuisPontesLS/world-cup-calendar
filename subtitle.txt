@@ -6,3 +6,12 @@ https://github.com/rocketseat-education/nlw-copa-ignite
 
 linha +/- 61: .card ul li {
   display: flex; abilita certas funções
+
+
+ADICIONAR LEGENDAS AS BANDEIRAS:
+HTML:
+Envelopar as tags img das bandeira com a tag figure e adicionar 
+o figcaption
+
+CSS:
+.legenda-bandeira linha +/- 87
