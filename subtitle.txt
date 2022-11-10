@@ -3,3 +3,6 @@ https://www.figma.com/file/0RqYKpszdHt9HBCvO0zXM4/Calend%C3%A1rio-de-Jogos-(Comm
 
 GITHUB ROCKETSEAT:
 https://github.com/rocketseat-education/nlw-copa-ignite
+
+linha +/- 61: .card ul li {
+  display: flex; abilita certas funções
