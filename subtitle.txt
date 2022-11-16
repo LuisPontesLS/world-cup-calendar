@@ -11,7 +11,7 @@ linha +/- 61: .card ul li {
 ADICIONAR LEGENDAS AS BANDEIRAS:
 HTML:
 Envelopar as tags img das bandeira com a tag figure e adicionar 
-o figcaption
+o figcaption. Para cada tag img, uma class="legenda-bandeira"
 
 CSS:
 .legenda-bandeira linha +/- 87
