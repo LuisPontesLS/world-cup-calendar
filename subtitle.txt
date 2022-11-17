@@ -1,9 +1,8 @@
 FIGMA:
 https://www.figma.com/file/0RqYKpszdHt9HBCvO0zXM4/Calend%C3%A1rio-de-Jogos-(Community)?node-id=122%3A130
 
-GITHUB ROCKETSEAT:
-https://github.com/rocketseat-education/nlw-copa-ignite
-
+GITHUB DO PROJETO DE UMA MOÇA:
+https://github.com/alinemello29/Projeto-copa-do-mundo-NLW-rocketseat/tree/118d8983ecf991a862e91820b7a2fbf4bf16ac5e
 linha +/- 61: .card ul li {
   display: flex; abilita certas funções
 
