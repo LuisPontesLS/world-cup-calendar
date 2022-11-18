@@ -130,3 +130,9 @@ document.querySelector("#cards").innerHTML =
       createGame("serbia", "16:00", "switzerland") +
       createGame("brazil", "16:00", "cameroon")
   );
+///////////////////////////////////////////////////////////////////////////////
+//OITAVAS DE FINAL//
+creatCard(
+  "03/12",
+  "sábado",
+  createGame("", "12:00", ""))
