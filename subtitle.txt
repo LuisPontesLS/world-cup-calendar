@@ -14,3 +14,12 @@ o figcaption. Para cada tag img, uma class="legenda-bandeira"
 
 CSS:
 .legenda-bandeira linha +/- 87
+
+CSS
+47.1%
+ 
+JavaScript
+29.4%
+ 
+HTML
+23.5%
